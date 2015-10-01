@@ -1,0 +1,19 @@
+NAS report "Frontiers in Massive Data Analysis" (2013)
+http://www.nap.edu/catalog.php?version=b&utm_expid=4418042-5.krRTDpXJQISoXLpdo-1Ynw.1&record_id=18374
+
+Many other relevant reports are available from the NAS
+http://www.nap.edu/topics.php?topic=279
+
+
+"The Fourth Paradigm" (free book download from Microsoft Research)
+http://research.microsoft.com/en-us/collaboration/fourthparadigm/
+
+Hands-on exercise (pdf): a description, contains links for the necessary downloads.
+https://d396qusza40orc.cloudfront.net/bigdataschool/Excercises-BigData.pdf
+
+Additional readings: Apache OODT (Big Data Processing)
+http://oodt.apache.org/
+
+
+Yaser Abu-Mostafa's Caltech class "Learning From Data"
+https://work.caltech.edu/telecourse.html
